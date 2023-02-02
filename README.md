@@ -1,6 +1,6 @@
  ![kitab khana-logos_transparent](https://user-images.githubusercontent.com/114301377/216403107-ce87db21-580b-448f-b2ee-8bd6e272491c.png)
 <h1 align="center">
-  <a href="https://github.com/CommunityOfCoders/Inheritance-2022">
+  <a href="https://github.com/Chanchal1010/Ace_developers-coc">
     
   <br>
   Kitab Khana 
@@ -97,7 +97,17 @@ Add names of your mentors with their emails and links to their GitHub accounts
 ## 📱Screenshots
 
 ![WhatsApp Image 2023-02-02 at 17 29 31](https://user-images.githubusercontent.com/114301377/216402744-89af0513-d143-4b17-8390-4826eead1f71.jpg)
-
+![3](https://user-images.githubusercontent.com/114301377/216404350-befff2b8-316e-48f4-94f9-c7329cc15982.jpg) 
+![4](https://user-images.githubusercontent.com/114301377/216404951-5c9b8123-6b47-4e16-afee-ade14684ff25.jpg)
+![5](https://user-images.githubusercontent.com/114301377/216405255-58088008-8a4a-4d37-b099-a55c9fa16bbd.jpg)
+![6](https://user-images.githubusercontent.com/114301377/216405751-4add543b-d98f-4d5a-bf9c-d76ca3e4d975.jpg)
+![7](https://user-images.githubusercontent.com/114301377/216406294-1072e01e-1ac4-4be4-be7a-ce1794f457d2.jpg)
+![8](https://user-images.githubusercontent.com/114301377/216406300-0b031378-cefd-4a1a-b6a6-75f4d8df74ef.jpg)
+![9](https://user-images.githubusercontent.com/114301377/216406251-75151253-0a26-44ad-bc4a-475f95840433.jpg)
+![10](https://user-images.githubusercontent.com/114301377/216406263-18295c72-4bba-458e-8792-be8ac06f3026.jpg)
+![11](https://user-images.githubusercontent.com/114301377/216406275-9510fb3c-8358-4738-926d-d0ea40e0f617.jpg)
+![12](https://user-images.githubusercontent.com/114301377/216406280-838b3d62-c6b0-47ae-8869-466531ee68f8.jpg)
+![13](https://user-images.githubusercontent.com/114301377/216406285-0debfc62-983b-422e-98b8-15041e451942.jpg)
 
 
 
