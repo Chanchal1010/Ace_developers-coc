@@ -31,23 +31,32 @@
 
 ## 📝Description
 
+GIVING IS NOT ABOUT DONATION , IT IS ABOUT MAKING A DIFFERENCE
 
+BOOK-BANK is a website where one can borrow ,rent, purchase ,or even sell a book.
+On this website we’ll try provide the user with all sought of book whether academics or any other genre .
+
+BOOK BANK is here to be a library in your pocket.
+
+Customer- If customer wants to purchase available on website, he would click on buy which would lead him to two options 
+He can either collect it from donor's location or warehouse (this would cost nothing 
+He can have his order shipped to his address (he has to pay shipping charges then
+Donor -donor would upload the picture of she wants to donate,. At the same time she would be specifying genre of book. Depending on the buyers request it would be either collected by shipment company or buyer itself
+
+Olx - It's an app where you can sell things to nearby people, our web page is entirely for people who wants to donate
+
+Mypustak - It's an app where you can get donated book by paying shipping charges where our app provides facility to personally collect books if possible
 
 ## 🔗Links
 
 - [GitHub Repository](https://github.com/Chanchal1010/Ace_developers-coc)
-- [Demo Video]()
-- [Drive Link to Screenshots of your project]()
+- [Demo Video](https://drive.google.com/folderview?id=1sxS1-Yux1bpmczuM1Wno3HVk9mJ6DjVu)
+- [Drive Link to Screenshots of your project](https://drive.google.com/folderview?id=1s2DJKOlPT9C7vrlkhALyKqTSTYGMTi8k)
 - [Hosted Website Link]()
 - [App APK Link]()
 - [Hosted Backend Link]()
 
-Add any more links/resources you used for your project
-
 ## 🤖Tech-Stack
-
-Mention all languages/libraries/frameworks used in your project **domain-wise**   
-You can use icons too - find them [here](https://github.com/get-icon/geticon) 
 
 #### Front-end
 - Flutter
@@ -55,50 +64,39 @@ You can use icons too - find them [here](https://github.com/get-icon/geticon)
 #### Back-end
 - Firebase
 
-## 📈Progress
-
-List down all the fully implemented features in your project
-
-- [x] Fully Implemented Feature 1 
-- [x] Fully Implemented Feature 2
-
-List down all the partially implemented features in your project
-
-- [ ] Partially Implemented Feature 1 
-- [ ] Partially Implemented Feature 2
-
 ## 🔮Future Scope
 
-List down all the future plans for the project here
+>1.When we are done with our semester we usually sell books but instead of that we can donate them to our juniors and it will be beneficial for them instead of buying all the expensive books
 
-- Future Feature 1
-- Future Feature 2
+>2.one stop store to have books of mostly all the streams like arts,commerce and science
 
 ## 💸Applications
 
->How can your project do its part in solving a real-life problem? What are its possible applications? Can it be monetized? Describe here.
+>Everyone is not able to afford all the expensive books so it is one stop destination for them from will they can take book for some time as per their need also they can donate the books which they don't need
 
 ## 🛠Project Setup
 
->Include your project setup basics here. Steps for how someone else can setup your project on their machine. Add any relevant details as well.
+>To setup our project you'll need to clone our repository and open our code in Android Studio Code or VS code to analyse in on the Android emulator. You can also connect your physical device to have our application on your device 
 
 ## 💻Usage
 
->Steps to run your project once its setup. If you have an app or website, list how the user can go about using it.
+>To create a seamless connection between book donators and consumers.
 
 ## 👨‍💻Team Members
 
 Add names of your team members with their emails and links to their GitHub accounts
 
-- [Team Member 1 Name](https://github.com/): Email 
-- [Team Member 2 Name](https://github.com/): Email 
+- [Poorva Gaikar](https://github.com/): pgaikar_b21@el.vjti.ac.in
+- [Aparna Bhutada](https://github.com/): ambhutada_b21@el.vjti.ac.in
+- [Chanchal Bahrani](https://github.com/): cdbahrani_b21@el.vjti.ac.in 
+- [Annu Kumari](https://github.com/): akumari_b21@ee.vjti.ac.in
 
 ## 👨‍🏫Mentors
 
 Add names of your mentors with their emails and links to their GitHub accounts
 
-- [Mentor 1 Name](https://github.com/): Email 
-- [Mentor 2 Name](https://github.com/): Email 
+- [Sanket Hake](https://github.com/): sankethake4847@gmail.com 
+- [Tushar Shirbhate](https://github.com/): tgshirbhate04@gmail.com 
 
 ## 📱Screenshots
 Add a few screenshots for parts of the project completed till now to give the viewer a quick idea of what your project looks like. After all, a picture speaks a thousand words.
