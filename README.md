@@ -3,13 +3,12 @@
     <img src="https://res.cloudinary.com/dn6vz8exv/image/upload/v1665664791/inh_zzefoy.jpg" alt="CoC Inheritance 2022" width="500" height="166">
   </a>
   <br>
-  Project Name
+  Kitab Khana 
 </h1>
 
 <div align="center">
-   <strong>Project Name</strong> - One Sentence Description of your project<br>
-  CoC Inheritance 2022 || Team Name <br> <br>
-  Add any <a href="https://shields.io/">Shields</a> here
+   <strong></strong> Your best choice <br>
+  CoC Inheritance 2022 || Ace Developers <br> <br>
 </div>
 <hr>
 
@@ -32,13 +31,11 @@
 
 ## 📝Description
 
-Add your **project description** here. Your project description should cover how your website/app works. That way you can convey what your project is without the need for anyone to view the code. A more *detailed README* in your project repository is encouraged, which can include build and use instructions etc.
 
-1. Include features and their usecases in bullet points
 
 ## 🔗Links
 
-- [GitHub Repository]()
+- [GitHub Repository](https://github.com/Chanchal1010/Ace_developers-coc)
 - [Demo Video]()
 - [Drive Link to Screenshots of your project]()
 - [Hosted Website Link]()
@@ -53,24 +50,10 @@ Mention all languages/libraries/frameworks used in your project **domain-wise**
 You can use icons too - find them [here](https://github.com/get-icon/geticon) 
 
 #### Front-end
-- HTML
-- CSS
-- JavaScript
-- etc.
+- Flutter
 
 #### Back-end
-- NodeJS
-- ExpressJS
-- etc.
-
-#### Database
-- MongoDB
-- SQL
-- etc.
-
-#### Computer Vision
-- OpenCV
-- etc.
+- Firebase
 
 ## 📈Progress
 
