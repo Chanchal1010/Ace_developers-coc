@@ -1,7 +1,7 @@
+ ![kitab khana-logos_transparent](https://user-images.githubusercontent.com/114301377/216403107-ce87db21-580b-448f-b2ee-8bd6e272491c.png)
 <h1 align="center">
   <a href="https://github.com/CommunityOfCoders/Inheritance-2022">
-    <img src="https://res.cloudinary.com/dn6vz8exv/image/upload/v1665664791/inh_zzefoy.jpg" alt="CoC Inheritance 2022" width="500" height="166">
-  </a>
+    
   <br>
   Kitab Khana 
 </h1>
@@ -18,7 +18,6 @@
 - [Description](#description)
 - [Links](#links)
 - [Tech Stack](#tech-stack)
-- [Progress](#progress)
 - [Future Scope](#future-scope)
 - [Applications](#applications)
 - [Project Setup](#project-setup)
@@ -52,9 +51,6 @@ Mypustak - It's an app where you can get donated book by paying shipping charges
 - [GitHub Repository](https://github.com/Chanchal1010/Ace_developers-coc)
 - [Demo Video](https://drive.google.com/folderview?id=1sxS1-Yux1bpmczuM1Wno3HVk9mJ6DjVu)
 - [Drive Link to Screenshots of your project](https://drive.google.com/folderview?id=1s2DJKOlPT9C7vrlkhALyKqTSTYGMTi8k)
-- [Hosted Website Link]()
-- [App APK Link]()
-- [Hosted Backend Link]()
 
 ## 🤖Tech-Stack
 
@@ -99,13 +95,9 @@ Add names of your mentors with their emails and links to their GitHub accounts
 - [Tushar Shirbhate](https://github.com/): tgshirbhate04@gmail.com 
 
 ## 📱Screenshots
-Add a few screenshots for parts of the project completed till now to give the viewer a quick idea of what your project looks like. After all, a picture speaks a thousand words.
 
-You'll have to link the screenshots from your drive folder here.
+![WhatsApp Image 2023-02-02 at 17 29 31](https://user-images.githubusercontent.com/114301377/216402744-89af0513-d143-4b17-8390-4826eead1f71.jpg)
 
-![Screenshot alt text](https://i.redd.it/qp8ocyzvyj8a1.jpg "Here is a screenshot")
 
-Use this template as a guide for writing your documentation. Feel free to customize and adapt it for you project.  
-For more Markdown syntax help, visit [here](https://www.markdownguide.org/basic-syntax/)
 
 
