@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "867911242975",
+    "project_id": "kitabkhana-app-968f2",
+    "storage_bucket": "kitabkhana-app-968f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867911242975:android:2a3cc530bdccffa602856a",
+        "android_client_info": {
+          "package_name": "com.example.kitab_khana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867911242975-cp0fvu0tgg33c4tfiegk7f8jtmedtpb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfNdg5Fr-LyQXMatB3XWM-Z5b76_Dy9VQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867911242975-cp0fvu0tgg33c4tfiegk7f8jtmedtpb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
